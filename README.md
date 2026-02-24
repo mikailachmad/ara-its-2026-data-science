@@ -163,6 +163,8 @@ Berdasarkan hasil EDA, berikut adalah rekomendasi augmentasi dan preprocessing y
 EDA/
 ├── EDA FINAL ARA ITS.ipynb    # Notebook EDA utama
 └── README.md                   # Dokumentasi ini
+└── requirements.txt              # Library yang digunakan dalam EDA
+└── submission.csv                  # Hasil prediksi tertinggi yang dapat saya capai
 ```
 
 ---
